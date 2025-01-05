@@ -1,0 +1,506 @@
+2024-12-10 09:16:37.198 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-10 09:16:37.736 +04:00 [INF] Creating key {ad7fdedc-a96b-4d60-9ca6-51baf8738abe} with creation date 2024-12-10 05:16:37Z, activation date 2024-12-10 05:16:37Z, and expiration date 2025-03-10 05:16:37Z.
+2024-12-10 09:16:37.780 +04:00 [INF] Writing data to file 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys\key-ad7fdedc-a96b-4d60-9ca6-51baf8738abe.xml'.
+2024-12-10 09:16:38.704 +04:00 [INF] Now listening on: https://localhost:7207
+2024-12-10 09:16:38.705 +04:00 [INF] Now listening on: http://localhost:5026
+2024-12-10 09:16:38.711 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-10 09:16:38.713 +04:00 [INF] Hosting environment: Development
+2024-12-10 09:16:38.714 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2024-12-10 09:16:39.007 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger - -
+2024-12-10 09:16:39.135 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger - - - 301 0 - 131.5891ms
+2024-12-10 09:16:39.138 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2024-12-10 09:16:39.506 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 368.2158ms
+2024-12-10 09:16:39.528 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/swagger-ui.css - -
+2024-12-10 09:16:39.528 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/swagger-ui-standalone-preset.js - -
+2024-12-10 09:16:39.528 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/swagger-ui-bundle.js - -
+2024-12-10 09:16:39.529 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2024-12-10 09:16:39.536 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2024-12-10 09:16:39.540 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 11.3518ms
+2024-12-10 09:16:39.557 +04:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2024-12-10 09:16:39.579 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/swagger-ui.css - - - 200 143632 text/css 51.1095ms
+2024-12-10 09:16:39.588 +04:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2024-12-10 09:16:39.590 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/swagger-ui-standalone-preset.js - - - 200 337162 application/javascript 61.4189ms
+2024-12-10 09:16:39.614 +04:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2024-12-10 09:16:39.615 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/swagger-ui-bundle.js - - - 200 1092889 application/javascript 87.1701ms
+2024-12-10 09:16:39.653 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 117.0793ms
+2024-12-10 09:16:39.869 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2024-12-10 09:16:39.905 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/favicon-32x32.png - -
+2024-12-10 09:16:39.907 +04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-12-10 09:16:39.909 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/favicon-32x32.png - - - 200 628 image/png 3.3517ms
+2024-12-10 09:16:40.028 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 159.6508ms
+2024-12-10 11:09:07.410 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-10 11:09:07.962 +04:00 [INF] Now listening on: https://localhost:7207
+2024-12-10 11:09:07.964 +04:00 [INF] Now listening on: http://localhost:5026
+2024-12-10 11:09:07.977 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-10 11:09:07.979 +04:00 [INF] Hosting environment: Development
+2024-12-10 11:09:07.980 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2024-12-10 11:09:08.522 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2024-12-10 11:09:09.000 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 486.3606ms
+2024-12-10 11:09:09.024 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2024-12-10 11:09:09.028 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2024-12-10 11:09:09.033 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 9.4116ms
+2024-12-10 11:09:09.066 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 37.0528ms
+2024-12-10 11:09:09.413 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2024-12-10 11:09:09.634 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 221.2750ms
+2024-12-10 11:11:53.772 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-10 11:11:54.856 +04:00 [INF] Now listening on: https://localhost:7207
+2024-12-10 11:11:54.859 +04:00 [INF] Now listening on: http://localhost:5026
+2024-12-10 11:11:54.883 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-10 11:11:54.884 +04:00 [INF] Hosting environment: Development
+2024-12-10 11:11:54.886 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2024-12-10 11:11:56.153 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2024-12-10 11:11:56.738 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 592.2912ms
+2024-12-10 11:11:56.781 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2024-12-10 11:11:56.789 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2024-12-10 11:11:56.797 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 15.9057ms
+2024-12-10 11:11:56.845 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 55.9112ms
+2024-12-10 11:11:57.185 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2024-12-10 11:11:57.512 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 326.9925ms
+2024-12-10 11:17:41.939 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-10 11:17:42.542 +04:00 [INF] Now listening on: https://localhost:7207
+2024-12-10 11:17:42.544 +04:00 [INF] Now listening on: http://localhost:5026
+2024-12-10 11:17:42.552 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-10 11:17:42.554 +04:00 [INF] Hosting environment: Development
+2024-12-10 11:17:42.555 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2024-12-10 11:17:43.286 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2024-12-10 11:17:43.948 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 672.3720ms
+2024-12-10 11:17:43.983 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2024-12-10 11:17:44.007 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 23.1733ms
+2024-12-10 11:17:44.007 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2024-12-10 11:17:44.060 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 53.0550ms
+2024-12-10 11:17:44.213 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2024-12-10 11:17:44.585 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 371.0508ms
+2024-12-10 11:27:26.697 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-10 11:27:26.971 +04:00 [INF] Now listening on: https://localhost:7207
+2024-12-10 11:27:26.973 +04:00 [INF] Now listening on: http://localhost:5026
+2024-12-10 11:27:26.978 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-10 11:27:26.980 +04:00 [INF] Hosting environment: Development
+2024-12-10 11:27:26.982 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2024-12-10 11:27:27.657 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2024-12-10 11:27:28.017 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 369.5795ms
+2024-12-10 11:27:28.061 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2024-12-10 11:27:28.072 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 11.5036ms
+2024-12-10 11:27:28.079 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2024-12-10 11:27:28.138 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 58.8169ms
+2024-12-10 11:27:28.393 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2024-12-10 11:27:28.637 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 244.5423ms
+2024-12-14 00:48:27.408 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-14 00:48:28.293 +04:00 [INF] Now listening on: https://localhost:7207
+2024-12-14 00:48:28.295 +04:00 [INF] Now listening on: http://localhost:5026
+2024-12-14 00:48:28.299 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-14 00:48:28.301 +04:00 [INF] Hosting environment: Development
+2024-12-14 00:48:28.303 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2024-12-14 00:48:29.290 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2024-12-14 00:48:29.785 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 501.2213ms
+2024-12-14 00:48:29.811 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2024-12-14 00:48:29.811 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2024-12-14 00:48:29.827 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 16.1126ms
+2024-12-14 00:48:29.969 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 158.2487ms
+2024-12-14 00:48:30.129 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2024-12-14 00:48:30.313 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 184.3857ms
+2024-12-14 00:51:04.597 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-14 00:51:04.896 +04:00 [INF] Now listening on: https://localhost:7207
+2024-12-14 00:51:04.897 +04:00 [INF] Now listening on: http://localhost:5026
+2024-12-14 00:51:04.903 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-14 00:51:04.904 +04:00 [INF] Hosting environment: Development
+2024-12-14 00:51:04.905 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2024-12-14 00:51:05.615 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2024-12-14 00:51:05.972 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 362.7338ms
+2024-12-14 00:51:05.999 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2024-12-14 00:51:06.001 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2024-12-14 00:51:06.009 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 9.0424ms
+2024-12-14 00:51:06.080 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 78.4253ms
+2024-12-14 00:51:06.295 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2024-12-14 00:51:06.426 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 131.2391ms
+2024-12-14 00:58:34.386 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-14 00:58:48.104 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-14 00:58:48.559 +04:00 [INF] Now listening on: https://localhost:7207
+2024-12-14 00:58:48.560 +04:00 [INF] Now listening on: http://localhost:5026
+2024-12-14 00:58:48.567 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-14 00:58:48.568 +04:00 [INF] Hosting environment: Development
+2024-12-14 00:58:48.569 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2024-12-14 00:58:48.884 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2024-12-14 00:58:49.167 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 286.4431ms
+2024-12-14 00:58:49.187 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2024-12-14 00:58:49.190 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2024-12-14 00:58:49.194 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 7.1125ms
+2024-12-14 00:58:49.212 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 22.8001ms
+2024-12-14 00:58:49.335 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2024-12-14 00:58:49.468 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 133.8451ms
+2024-12-14 01:04:59.468 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-14 01:04:59.779 +04:00 [INF] Now listening on: https://localhost:7207
+2024-12-14 01:04:59.782 +04:00 [INF] Now listening on: http://localhost:5026
+2024-12-14 01:04:59.787 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-14 01:04:59.788 +04:00 [INF] Hosting environment: Development
+2024-12-14 01:04:59.789 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2024-12-14 01:05:00.155 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2024-12-14 01:05:00.531 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 378.9807ms
+2024-12-14 01:05:00.548 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2024-12-14 01:05:00.556 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 7.9896ms
+2024-12-14 01:05:00.556 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2024-12-14 01:05:00.579 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 23.2507ms
+2024-12-14 01:05:00.751 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2024-12-14 01:05:00.901 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 149.2856ms
+2024-12-14 21:44:45.596 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-14 21:44:46.873 +04:00 [INF] Now listening on: https://localhost:7207
+2024-12-14 21:44:46.875 +04:00 [INF] Now listening on: http://localhost:5026
+2024-12-14 21:44:46.886 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-14 21:44:46.887 +04:00 [INF] Hosting environment: Development
+2024-12-14 21:44:46.888 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2024-12-14 21:44:47.616 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2024-12-14 21:44:48.114 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 500.9400ms
+2024-12-14 21:44:48.137 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2024-12-14 21:44:48.149 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2024-12-14 21:44:48.149 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 12.3578ms
+2024-12-14 21:44:48.213 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 64.0183ms
+2024-12-14 21:44:48.340 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2024-12-14 21:44:48.505 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 165.4938ms
+2024-12-14 23:42:29.775 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-14 23:42:30.110 +04:00 [INF] Now listening on: https://localhost:7207
+2024-12-14 23:42:30.111 +04:00 [INF] Now listening on: http://localhost:5026
+2024-12-14 23:42:30.116 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-14 23:42:30.117 +04:00 [INF] Hosting environment: Development
+2024-12-14 23:42:30.118 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2024-12-14 23:42:30.594 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2024-12-14 23:42:30.928 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 340.5460ms
+2024-12-14 23:42:30.946 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2024-12-14 23:42:30.952 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 5.9212ms
+2024-12-14 23:42:30.954 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2024-12-14 23:42:30.978 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 24.7575ms
+2024-12-14 23:42:31.147 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2024-12-14 23:42:31.317 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 170.3104ms
+2024-12-26 23:52:08.741 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-12-26 23:52:10.060 +04:00 [INF] Now listening on: https://localhost:7207
+2024-12-26 23:52:10.061 +04:00 [INF] Now listening on: http://localhost:5026
+2024-12-26 23:52:10.065 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-12-26 23:52:10.065 +04:00 [INF] Hosting environment: Development
+2024-12-26 23:52:10.066 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2024-12-26 23:52:10.765 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2024-12-26 23:52:11.134 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 372.6321ms
+2024-12-26 23:52:11.163 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2024-12-26 23:52:11.164 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2024-12-26 23:52:11.175 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 11.1152ms
+2024-12-26 23:52:11.254 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 90.6639ms
+2024-12-26 23:52:11.402 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2024-12-26 23:52:11.488 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/favicon-32x32.png - -
+2024-12-26 23:52:11.509 +04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2024-12-26 23:52:11.511 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/favicon-32x32.png - - - 200 628 image/png 22.4339ms
+2024-12-26 23:52:11.573 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 170.9629ms
+2025-01-01 09:57:03.847 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-01 09:57:04.772 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-01 09:57:04.774 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-01 09:57:04.780 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-01 09:57:04.781 +04:00 [INF] Hosting environment: Development
+2025-01-01 09:57:04.782 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-01 09:57:05.596 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-01 09:57:06.028 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 436.9152ms
+2025-01-01 09:57:06.053 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-01 09:57:06.057 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-01 09:57:06.061 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 7.8641ms
+2025-01-01 09:57:06.146 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 88.8903ms
+2025-01-01 09:57:06.378 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-01 09:57:06.554 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 177.1036ms
+2025-01-01 17:45:53.391 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-01 17:45:54.829 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-01 17:45:54.830 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-01 17:45:54.834 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-01 17:45:54.835 +04:00 [INF] Hosting environment: Development
+2025-01-01 17:45:54.836 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-01 17:45:55.240 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-01 17:45:55.656 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 423.4848ms
+2025-01-01 17:45:55.679 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-01 17:45:55.684 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-01 17:45:55.687 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 8.1284ms
+2025-01-01 17:45:55.760 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 76.4214ms
+2025-01-01 17:45:55.918 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-01 17:45:56.062 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 143.8981ms
+2025-01-01 22:59:41.130 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-01 22:59:41.521 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-01 22:59:41.522 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-01 22:59:41.527 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-01 22:59:41.529 +04:00 [INF] Hosting environment: Development
+2025-01-01 22:59:41.531 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-01 22:59:42.150 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-01 22:59:42.527 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 380.5830ms
+2025-01-01 22:59:42.557 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-01 22:59:42.559 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-01 22:59:42.565 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 8.0293ms
+2025-01-01 22:59:42.668 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 108.7067ms
+2025-01-01 22:59:42.806 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-01 22:59:42.898 +04:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Users" for actions - ETicaretAPI.API.Controllers.UsersController.CreateUser (ETicaretAPI.API),ETicaretAPI.API.Controllers.UsersController.UpdatePassword (ETicaretAPI.API). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2025-01-01 22:59:43.039 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 500 - text/plain;+charset=utf-8 233.4541ms
+2025-01-01 23:01:21.151 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-01 23:01:21.448 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-01 23:01:21.450 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-01 23:01:21.456 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-01 23:01:21.457 +04:00 [INF] Hosting environment: Development
+2025-01-01 23:01:21.459 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-01 23:01:21.781 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-01 23:01:22.065 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 289.6527ms
+2025-01-01 23:01:22.095 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-01 23:01:22.095 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-01 23:01:22.107 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 11.4915ms
+2025-01-01 23:01:22.118 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 22.7137ms
+2025-01-01 23:01:22.277 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-01 23:01:22.381 +04:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Users" for actions - ETicaretAPI.API.Controllers.UsersController.CreateUser (ETicaretAPI.API),ETicaretAPI.API.Controllers.UsersController.UpdatePassword (ETicaretAPI.API). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2025-01-01 23:01:22.440 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 500 - text/plain;+charset=utf-8 162.9806ms
+2025-01-01 23:01:30.004 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-01 23:01:30.331 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-01 23:01:30.331 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-01 23:01:30.336 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-01 23:01:30.337 +04:00 [INF] Hosting environment: Development
+2025-01-01 23:01:30.337 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-01 23:01:30.771 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-01 23:01:31.066 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 300.2080ms
+2025-01-01 23:01:31.094 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-01 23:01:31.098 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-01 23:01:31.104 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 9.9854ms
+2025-01-01 23:01:31.122 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 23.4856ms
+2025-01-01 23:01:31.274 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-01 23:01:31.370 +04:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Conflicting method/path combination "POST api/Users" for actions - ETicaretAPI.API.Controllers.UsersController.CreateUser (ETicaretAPI.API),ETicaretAPI.API.Controllers.UsersController.UpdatePassword (ETicaretAPI.API). Actions require a unique method/path combination for Swagger/OpenAPI 3.0. Use ConflictingActionsResolver as a workaround
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2025-01-01 23:01:31.421 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 500 - text/plain;+charset=utf-8 146.8301ms
+2025-01-01 23:06:38.176 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-01 23:06:38.584 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-01 23:06:38.610 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-01 23:06:38.615 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-01 23:06:38.617 +04:00 [INF] Hosting environment: Development
+2025-01-01 23:06:38.619 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-01 23:06:39.196 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-01 23:06:39.617 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 425.3762ms
+2025-01-01 23:06:39.635 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-01 23:06:39.642 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 7.0175ms
+2025-01-01 23:06:39.645 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-01 23:06:39.694 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 49.0183ms
+2025-01-01 23:06:39.780 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-01 23:06:39.946 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 165.7544ms
+2025-01-02 09:35:53.052 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-02 09:35:54.480 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-02 09:35:54.482 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-02 09:35:54.491 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-02 09:35:54.494 +04:00 [INF] Hosting environment: Development
+2025-01-02 09:35:54.496 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-02 09:35:55.173 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-02 09:35:55.764 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 600.6062ms
+2025-01-02 09:35:55.795 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-02 09:35:55.795 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-02 09:35:55.811 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 15.8356ms
+2025-01-02 09:35:55.905 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 110.5306ms
+2025-01-02 09:35:56.160 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-02 09:35:56.370 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 209.9777ms
+2025-01-02 13:00:40.336 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-02 13:00:41.668 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-02 13:00:41.669 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-02 13:00:41.673 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-02 13:00:41.674 +04:00 [INF] Hosting environment: Development
+2025-01-02 13:00:41.674 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-02 13:00:42.059 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-02 13:00:42.451 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-02 13:00:42.454 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 402.1143ms
+2025-01-02 13:00:42.458 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 6.3330ms
+2025-01-02 13:00:42.475 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-02 13:00:42.552 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 76.9257ms
+2025-01-02 13:00:42.680 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-02 13:00:42.824 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 144.7484ms
+2025-01-02 15:15:24.971 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-02 15:15:25.565 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-02 15:15:25.567 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-02 15:15:25.576 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-02 15:15:25.577 +04:00 [INF] Hosting environment: Development
+2025-01-02 15:15:25.578 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-02 15:15:26.029 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-02 15:15:26.589 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 566.8695ms
+2025-01-02 15:15:26.627 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-02 15:15:26.627 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-02 15:15:26.640 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 12.8110ms
+2025-01-02 15:15:26.704 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 77.2192ms
+2025-01-02 15:15:26.980 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-02 15:15:27.209 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 229.9661ms
+2025-01-02 15:20:29.042 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-02 15:20:29.530 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-02 15:20:29.532 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-02 15:20:29.540 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-02 15:20:29.541 +04:00 [INF] Hosting environment: Development
+2025-01-02 15:20:29.543 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-02 15:20:30.253 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-02 15:20:30.795 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 550.0068ms
+2025-01-02 15:20:30.827 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-02 15:20:30.837 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 10.7652ms
+2025-01-02 15:20:30.840 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-02 15:20:30.892 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 52.1137ms
+2025-01-02 15:20:31.233 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-02 15:20:31.475 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 242.9655ms
+2025-01-03 19:02:39.571 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-03 19:02:41.425 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-03 19:02:41.426 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-03 19:02:41.431 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-03 19:02:41.433 +04:00 [INF] Hosting environment: Development
+2025-01-03 19:02:41.434 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-03 19:02:42.225 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-03 19:02:42.628 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 409.6011ms
+2025-01-03 19:02:42.648 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-03 19:02:42.648 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-03 19:02:42.655 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 6.9412ms
+2025-01-03 19:02:42.718 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 69.8092ms
+2025-01-03 19:02:42.842 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-03 19:02:42.879 +04:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - ETicaretAPI.API.Controllers.ApplicationServicesController.GetAuthorizeDefinitionEndpoints (ETicaretAPI.API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2025-01-03 19:02:42.891 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/favicon-32x32.png - -
+2025-01-03 19:02:43.110 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 500 - text/plain;+charset=utf-8 268.4304ms
+2025-01-03 19:02:43.121 +04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2025-01-03 19:02:43.123 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/favicon-32x32.png - - - 200 628 image/png 232.2800ms
+2025-01-03 19:06:27.899 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-03 19:06:28.220 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-03 19:06:28.222 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-03 19:06:28.228 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-03 19:06:28.229 +04:00 [INF] Hosting environment: Development
+2025-01-03 19:06:28.231 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-03 19:06:28.613 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-03 19:06:28.939 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 334.0474ms
+2025-01-03 19:06:28.957 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-03 19:06:28.957 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-03 19:06:28.968 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 11.3499ms
+2025-01-03 19:06:28.978 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 21.3769ms
+2025-01-03 19:06:29.121 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-03 19:06:29.275 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 153.7047ms
+2025-01-03 19:10:18.429 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-03 19:10:18.746 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-03 19:10:18.748 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-03 19:10:18.752 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-03 19:10:18.754 +04:00 [INF] Hosting environment: Development
+2025-01-03 19:10:18.756 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-03 19:10:19.180 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-03 19:10:19.493 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 320.2936ms
+2025-01-03 19:10:19.515 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-03 19:10:19.515 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-03 19:10:19.520 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 5.6185ms
+2025-01-03 19:10:19.542 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 27.8672ms
+2025-01-03 19:10:19.704 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-03 19:10:19.751 +04:00 [ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - ETicaretAPI.API.Controllers.ApplicationServicesController.GetAuthorizeDefinitionEndpoints (ETicaretAPI.API). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2025-01-03 19:10:19.797 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 500 - text/plain;+charset=utf-8 93.0742ms
+2025-01-03 19:10:30.727 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-03 19:10:31.021 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-03 19:10:31.022 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-03 19:10:31.028 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-03 19:10:31.030 +04:00 [INF] Hosting environment: Development
+2025-01-03 19:10:31.031 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-03 19:10:31.419 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-03 19:10:31.732 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 318.6856ms
+2025-01-03 19:10:31.737 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-03 19:10:31.747 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 9.6899ms
+2025-01-03 19:10:31.757 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-03 19:10:31.775 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 17.3262ms
+2025-01-03 19:10:31.907 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-03 19:10:32.054 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 147.1629ms
+2025-01-03 19:54:37.411 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-03 19:54:37.836 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-03 19:54:37.838 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-03 19:54:37.852 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-03 19:54:37.855 +04:00 [INF] Hosting environment: Development
+2025-01-03 19:54:37.857 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-03 19:54:38.198 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-03 19:54:38.628 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 439.9202ms
+2025-01-03 19:54:38.664 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-03 19:54:38.668 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-03 19:54:38.688 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 23.6363ms
+2025-01-03 19:54:38.703 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 35.1362ms
+2025-01-03 19:54:38.959 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-03 19:54:39.165 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 206.7029ms
+2025-01-04 08:06:39.475 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-04 08:06:41.120 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-04 08:06:41.121 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-04 08:06:41.125 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-04 08:06:41.126 +04:00 [INF] Hosting environment: Development
+2025-01-04 08:06:41.126 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-04 08:06:42.014 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-04 08:06:42.457 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 446.3615ms
+2025-01-04 08:06:42.482 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-04 08:06:42.482 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-04 08:06:42.493 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 11.0957ms
+2025-01-04 08:06:42.547 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 65.0874ms
+2025-01-04 08:06:42.684 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-04 08:06:42.821 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 136.7094ms
+2025-01-04 08:12:10.364 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-04 08:12:10.803 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-04 08:12:10.806 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-04 08:12:10.813 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-04 08:12:10.813 +04:00 [INF] Hosting environment: Development
+2025-01-04 08:12:10.814 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-04 08:12:11.529 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-04 08:12:11.924 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 398.2818ms
+2025-01-04 08:12:11.940 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-04 08:12:11.940 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-04 08:12:11.953 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 13.4596ms
+2025-01-04 08:12:11.966 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 26.4168ms
+2025-01-04 08:12:12.140 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-04 08:12:12.292 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 152.2172ms
+2025-01-04 10:35:35.568 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-04 10:35:35.946 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-04 10:35:35.946 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-04 10:35:35.951 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-04 10:35:35.952 +04:00 [INF] Hosting environment: Development
+2025-01-04 10:35:35.952 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-04 10:35:36.467 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-04 10:35:36.722 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 259.8709ms
+2025-01-04 10:35:36.739 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-04 10:35:36.746 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 6.4389ms
+2025-01-04 10:35:36.755 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-04 10:35:36.776 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 21.3730ms
+2025-01-04 10:35:36.919 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-04 10:35:37.064 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 144.8578ms
+2025-01-05 09:39:08.575 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-05 09:39:09.997 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-05 09:39:09.998 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-05 09:39:10.002 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-05 09:39:10.003 +04:00 [INF] Hosting environment: Development
+2025-01-05 09:39:10.003 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-05 09:39:10.512 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-05 09:39:10.903 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 398.3037ms
+2025-01-05 09:39:10.934 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-05 09:39:10.937 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-05 09:39:10.944 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 9.9542ms
+2025-01-05 09:39:11.072 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 134.4421ms
+2025-01-05 09:39:11.209 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-05 09:39:11.496 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 287.6932ms
+2025-01-05 10:17:39.413 +04:00 [INF] User profile is available. Using 'C:\Users\ferid\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-01-05 10:17:39.896 +04:00 [INF] Now listening on: https://localhost:7207
+2025-01-05 10:17:39.898 +04:00 [INF] Now listening on: http://localhost:5026
+2025-01-05 10:17:39.906 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2025-01-05 10:17:39.907 +04:00 [INF] Hosting environment: Development
+2025-01-05 10:17:39.908 +04:00 [INF] Content root path: C:\Users\ferid\Desktop\ETicaretUygulamasi\ETicaretAPI\Presentation\ETicaretAPI.API\
+2025-01-05 10:17:40.571 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/index.html - -
+2025-01-05 10:17:41.137 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/index.html - - - 200 - text/html;charset=utf-8 572.8085ms
+2025-01-05 10:17:41.163 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - -
+2025-01-05 10:17:41.171 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/_vs/browserLink - -
+2025-01-05 10:17:41.173 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 9.7297ms
+2025-01-05 10:17:41.219 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 48.2264ms
+2025-01-05 10:17:41.526 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - -
+2025-01-05 10:17:42.074 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7207/swagger/v1/swagger.json - - - 200 - application/json;charset=utf-8 548.8102ms
